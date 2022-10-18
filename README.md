@@ -1,4 +1,4 @@
-<h1> Opa, eae! Eu sou Luis Fernando 🖐 </h1>
+<h1> Oiii! Sou Luis Fernando 🖐 </h1>
 
 - 🔥 Desenvolvedor full-stack em andamento...
 
