@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor full-stack em andamento...
 
-- 📕 Atualmente faço cursos focado na parte de Front-End
+- 📕 Atualmente estudo o curso de ADS na FIAP!
 
 - 🧠 Bom conhecimento em **Java, JavaScript, Oracle SQL, Python, Machine Learning, HTML5 e CSS3**
 
