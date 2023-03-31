@@ -1,10 +1,10 @@
 <h1> Oiii! Sou Luis Fernando 🖐 </h1>
 
-- 🔥 Desenvolvedor full-stack em andamento...
+- 🔥 Back-end developer in evolution...
 
-- 📕 Atualmente estudo o curso de ADS na FIAP!
+- 📕 Studying Computer and System Analysis in FIAP!
 
-- 🧠 Bom conhecimento em **Java, JavaScript, Oracle SQL, Python, Machine Learning, HTML5 e CSS3**
+- 🧠 Great knowledge in **Java Hibernate and Spring**
 
 <br><br>
 
