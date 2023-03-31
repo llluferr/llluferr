@@ -1,4 +1,4 @@
-<h1> Oiii! Sou Luis Fernando 🖐 </h1>
+<h1> Hii! I'm Luis Fernando 🖐 </h1>
 
 - 🔥 Back-end developer in evolution...
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tecnologias que domino
+## 🛠 &nbsp;Technologies I have knowledge
 
 <img align="center" alt="Java"
 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
