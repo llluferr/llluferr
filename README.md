@@ -39,3 +39,8 @@ src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logo
 ## &nbsp;Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-nascimento-de-oliveira-a8bb381ab/) 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
