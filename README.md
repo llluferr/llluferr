@@ -1,6 +1,6 @@
 <h1> Hii! I'm Luis Fernando 🖐 </h1>
 
-- 🔥 Back-end developer in evolution...
+- 🔥 FullStack developer in evolution...
 
 - 📕 Studying Computer and System Analysis in FIAP!
 
